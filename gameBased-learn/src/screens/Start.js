@@ -1,11 +1,4 @@
-import {
-  View,
-  Text,
-  Image,
-  StatusBar,
-  TextInput,
-  Pressable,
-} from "react-native";
+import { View, Text, Image, TextInput, Pressable } from "react-native";
 import styles from "../styles";
 
 const Start = ({ navigation }) => {
